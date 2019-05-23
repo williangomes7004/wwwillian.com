@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 251.53186 226.3069" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-19.234 -15.361)" fill-rule="evenodd" stroke="#000">
+  <path d="m129.86 127.36h30.143v74.346h-30.143z" fill="#f0f0f0" stroke-width="2"/>
+  <path d="m37.003 16.639h215.58a15.931 15.931 0 0 1 15.931 15.931v106.21a15.931 15.931 0 0 1 -15.931 15.931h-215.58a15.931 15.931 0 0 1 -15.931 -15.931v-106.21a15.931 15.931 0 0 1 15.931 -15.931" fill="#f0f0f0" stroke-width="2.5551"/>
+  <path d="m32.858 26.007h225.58a1.0733 1.0733 0 0 1 1.0733 1.0733v116.21a1.0733 1.0733 0 0 1 -1.0733 1.0733h-225.58a1.0733 1.0733 0 0 1 -1.0733 -1.0733v-116.21a1.0733 1.0733 0 0 1 1.0733 -1.0733" fill="#fff" stroke-width="2.2695"/>
+ </g>
+ <g transform="translate(-128.83 -286.77)" fill-rule="evenodd" stroke="#000">
+  <path d="m129.58 502.34 10.418-49.974h229.2l10.418 49.974v9.9949h-250.03v-9.9949z" fill="#f0f0f0" stroke-width="1.5"/>
+  <path d="m129.58 502.34h250.03" fill="#c8c8c8" stroke-linecap="round" stroke-miterlimit="0" stroke-width="1.5"/>
+  <path d="m144.53 495.31 0.47495-2.9506h146l0.73185 2.9506v1.9671h-147.21v-1.9671z" fill="#f0f0f0" stroke-miterlimit="2"/>
+  <path d="m144.53 495.31h147.21" fill="#c8c8c8" stroke-linecap="round" stroke-miterlimit="2"/>
+ </g>
+</svg>

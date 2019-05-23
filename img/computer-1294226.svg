@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 71.299 45.17" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -.33547)" label="Capa 1">
+  <rect transform="translate(-50.529 -95.746)" x="56.815" y="96.622" width="58.774" height="39.012" ry="4.0807" fill="none" stroke="#000" stroke-width="1.0811" label="Capa 1"/>
+  <rect transform="translate(-50.529 -95.746)" x="60.424" y="100.67" width="51.558" height="29.364" fill="none" stroke="#000" stroke-width="1.0312" label="Capa 1"/>
+  <path d="m0.63172 40.255v1.4698c0 1.7882 1.4512 3.2402 3.2804 3.2402h63.489c1.8291 0 3.3145-1.452 3.3145-3.2402v-1.4698h-70.084z" fill-opacity="0" stroke="#000" stroke-miterlimit="60.9" stroke-width="1.0811" label="Capa 1"/>
+  <path transform="translate(-50.529 -95.746)" d="m50.529 135.78 5.6423-3.635h59.758l5.899 3.51-71.299 0.125z" label="Capa 1"/>
+  <ellipse transform="translate(-50.529 -95.746)" cx="86.179" cy="98.756" rx=".89765" ry=".87753" d="m 87.076224,98.756332 c 0,0.484647 -0.401892,0.87753 -0.89765,0.87753 -0.495759,0 -0.89765,-0.392883 -0.89765,-0.87753 0,-0.484646 0.401891,-0.87753 0.89765,-0.87753 0.495758,0 0.89765,0.392884 0.89765,0.87753 z" label="Capa 1"/>
+ </g>
+</svg>

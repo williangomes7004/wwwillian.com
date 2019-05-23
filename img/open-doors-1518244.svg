@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 198 -135 612 414" version="1.1" viewBox="198 -135 612 414" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:url(#f);}
+	.st2{fill:url(#g);}
+	.st3{fill:url(#h);}
+	.st4{fill:url(#i);}
+	.st5{fill:url(#j);}
+</style>
+<rect class="st0" x="198" y="-134.4" width="614.1" height="413.4"/>
+<rect x="198" y="146.7" width="614.1" height="132.3"/>
+<linearGradient id="f" x1="498.25" x2="498.25" y1="64.5" y2="-135" gradientTransform="matrix(1 0 0 -1 0 144)" gradientUnits="userSpaceOnUse">
+	<stop stop-color="#fff" offset="0"/>
+	<stop stop-color="#F9F9F9" offset=".091519"/>
+	<stop stop-color="#E7E7E7" offset=".2173"/>
+	<stop stop-color="#CACACA" offset=".363"/>
+	<stop stop-color="#A1A1A1" offset=".5236"/>
+	<stop stop-color="#6D6D6D" offset=".6966"/>
+	<stop stop-color="#2F2F2F" offset=".8769"/>
+	<stop offset="1"/>
+</linearGradient>
+<polygon class="st1" points="223 279 773.5 279 629.2 146.8 552.2 79.5 443.1 79.5"/>
+<linearGradient id="g" x1="409.45" x2="409.45" y1="-2.7" y2="259" gradientTransform="matrix(1 0 0 -1 0 144)" gradientUnits="userSpaceOnUse">
+	<stop stop-color="#fff" offset="0"/>
+	<stop stop-color="#F6F6F6" offset=".0040757"/>
+	<stop stop-color="#C8C8C8" offset=".026329"/>
+	<stop stop-color="#9D9D9D" offset=".051408"/>
+	<stop stop-color="#777" offset=".078362"/>
+	<stop stop-color="#575757" offset=".1077"/>
+	<stop stop-color="#3B3B3B" offset=".1401"/>
+	<stop stop-color="#252525" offset=".1767"/>
+	<stop stop-color="#141414" offset=".2195"/>
+	<stop stop-color="#090909" offset=".2723"/>
+	<stop stop-color="#020202" offset=".3465"/>
+	<stop offset=".5522"/>
+	<stop stop-color="#020202" offset=".7172"/>
+	<stop stop-color="#090909" offset=".7767"/>
+	<stop stop-color="#141414" offset=".8191"/>
+	<stop stop-color="#252525" offset=".8533"/>
+	<stop stop-color="#3B3B3B" offset=".8827"/>
+	<stop stop-color="#575757" offset=".9087"/>
+	<stop stop-color="#777" offset=".9322"/>
+	<stop stop-color="#9D9D9D" offset=".9538"/>
+	<stop stop-color="#C8C8C8" offset=".9739"/>
+	<stop stop-color="#F6F6F6" offset=".9918"/>
+	<stop stop-color="#fff" offset=".995"/>
+</linearGradient>
+<polygon class="st2" points="379.3 -115 439.6 -95.2 439.6 120.3 379.3 146.7"/>
+<linearGradient id="h" x1="593.55" x2="593.55" y1="-2.7" y2="259" gradientTransform="matrix(1 0 0 -1 0 144)" gradientUnits="userSpaceOnUse">
+	<stop stop-color="#fff" offset="0"/>
+	<stop stop-color="#F6F6F6" offset=".0040757"/>
+	<stop stop-color="#C8C8C8" offset=".026329"/>
+	<stop stop-color="#9D9D9D" offset=".051408"/>
+	<stop stop-color="#777" offset=".078362"/>
+	<stop stop-color="#575757" offset=".1077"/>
+	<stop stop-color="#3B3B3B" offset=".1401"/>
+	<stop stop-color="#252525" offset=".1767"/>
+	<stop stop-color="#141414" offset=".2195"/>
+	<stop stop-color="#090909" offset=".2723"/>
+	<stop stop-color="#020202" offset=".3465"/>
+	<stop offset=".5522"/>
+	<stop stop-color="#020202" offset=".7172"/>
+	<stop stop-color="#090909" offset=".7767"/>
+	<stop stop-color="#141414" offset=".8191"/>
+	<stop stop-color="#252525" offset=".8533"/>
+	<stop stop-color="#3B3B3B" offset=".8827"/>
+	<stop stop-color="#575757" offset=".9087"/>
+	<stop stop-color="#777" offset=".9322"/>
+	<stop stop-color="#9D9D9D" offset=".9538"/>
+	<stop stop-color="#C8C8C8" offset=".9739"/>
+	<stop stop-color="#F6F6F6" offset=".9918"/>
+	<stop stop-color="#fff" offset=".995"/>
+</linearGradient>
+<polygon class="st3" points="623.7 -115 620.2 -113.8 563.4 -95.2 563.4 120.3 619.5 144.8 623.7 146.7"/>
+<polygon points="642 147.1 631.3 147.1 631.3 -124.3 371.7 -124.3 371.7 147.5 361 147.5 361 -135 642 -135"/>
+<linearGradient id="i" x1="568.14" x2="573.41" y1="123.1" y2="123.1" gradientTransform="matrix(1 0 0 -1 0 144)" gradientUnits="userSpaceOnUse">
+	<stop stop-color="#fff" offset="0"/>
+	<stop stop-color="#CBCBCB" offset=".078361"/>
+	<stop stop-color="#9F9F9F" offset=".1568"/>
+	<stop stop-color="#7B7B7B" offset=".2359"/>
+	<stop stop-color="#5F5F5F" offset=".3149"/>
+	<stop stop-color="#4B4B4B" offset=".3939"/>
+	<stop stop-color="#3F3F3F" offset=".473"/>
+	<stop stop-color="#3B3B3B" offset=".5522"/>
+	<stop stop-color="#3E3E3E" offset=".6258"/>
+	<stop stop-color="#494949" offset=".6898"/>
+	<stop stop-color="#5B5B5B" offset=".7502"/>
+	<stop stop-color="#747474" offset=".8084"/>
+	<stop stop-color="#959595" offset=".8651"/>
+	<stop stop-color="#BCBCBC" offset=".9205"/>
+	<stop stop-color="#EBEBEB" offset=".9741"/>
+	<stop stop-color="#fff" offset=".995"/>
+</linearGradient>
+<ellipse class="st4" cx="570.8" cy="20.9" rx="2.6" ry="7.1"/>
+<linearGradient id="j" x1="430.74" x2="436.01" y1="123.1" y2="123.1" gradientTransform="matrix(1 0 0 -1 0 144)" gradientUnits="userSpaceOnUse">
+	<stop stop-color="#fff" offset="0"/>
+	<stop stop-color="#CBCBCB" offset=".078361"/>
+	<stop stop-color="#9F9F9F" offset=".1568"/>
+	<stop stop-color="#7B7B7B" offset=".2359"/>
+	<stop stop-color="#5F5F5F" offset=".3149"/>
+	<stop stop-color="#4B4B4B" offset=".3939"/>
+	<stop stop-color="#3F3F3F" offset=".473"/>
+	<stop stop-color="#3B3B3B" offset=".5522"/>
+	<stop stop-color="#3E3E3E" offset=".6258"/>
+	<stop stop-color="#494949" offset=".6898"/>
+	<stop stop-color="#5B5B5B" offset=".7502"/>
+	<stop stop-color="#747474" offset=".8084"/>
+	<stop stop-color="#959595" offset=".8651"/>
+	<stop stop-color="#BCBCBC" offset=".9205"/>
+	<stop stop-color="#EBEBEB" offset=".9741"/>
+	<stop stop-color="#fff" offset=".995"/>
+</linearGradient>
+<ellipse class="st5" cx="433.4" cy="20.9" rx="2.6" ry="7.1"/>
+<polygon points="627.5 144.1 623.7 146.7 623.7 -115 627.5 -113.5"/>
+<polygon points="375.5 144.1 379.3 146.7 379.3 -115 375.5 -113.5"/>
+<rect x="371.6" y="-83.3" width="4" height="21"/>
+<rect x="371.6" y="69.1" width="4" height="21"/>
+<rect x="627.5" y="-83.3" width="4" height="21"/>
+<rect x="627.5" y="69.1" width="4" height="21"/>
+<rect x="198" y="-134.4" width="163" height="284.6"/>
+<rect x="328" y="-135.3" width="322.1" height="16.1"/>
+<rect x="642" y="-134.4" width="170.1" height="284.6"/>
+</svg>
