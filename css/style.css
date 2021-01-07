@@ -1,28 +1,25 @@
 body {
     margin: 0 auto;
     padding: 0;
-    background: #ffffff;
+    background: #000;
 }
 
 .img{
     text-align: center;
 }
 
+p {
+    font-family: courier;
+    font-size: xx-large;
+    color: #555;
+    font-size: 13px;
+}
+
 .logo{
+    position: relative;
+    z-index: -1;
     display: flex;
     justify-content: center;
-    margin-block-start: 1.83em;
-    margin-block-end: 1.83em;
-}
-
-h2{
-    font-size: 3.5em;
-    font-family: 'Rock Salt', cursive;
-}
-
-p{
-    font-size: xx-large;
-    font-family: 'Rock Salt', cursive;
 }
 
 .left {
@@ -44,10 +41,10 @@ p{
 
 #gradient {
     background: #99AF49;
-    background-image: linear-gradient(#326051 20%, #C67523 20%, #6B4D0D 40%, #4D0EB1 40%, #CF116E 60%, #B982CE 60%, #340AE7 80%, #254921     80%);
+    background-image: linear-gradient(90deg, #8360c3 0%, #2ebf91 100%);
     margin: 0 auto;
-    margin-top: 100px;
     width: 100%;
+    margin-top: 50px;
     height: 150px;
 }
 
@@ -70,19 +67,18 @@ p{
 }
 
 #card {
-    position: absolute;
-    margin-top: 1230px;
+    position: fixed;
     width: 450px;
     height: 225px;
     padding: 25px;
-    padding-top: 0;
+    top: 470px;
     padding-bottom: 0;
     left: 50%;
-    top: 67.5px;
     margin-left: -250px;
     background: #E9E2D0;
     box-shadow: -20px 0 35px -25px black, 20px 0 35px -25px black;
     z-index: 5;
+
 }
 
 #card img {
@@ -103,14 +99,21 @@ p{
     font-size: 15pt;
 }
 
-#card p {
+#card p,
+#card p a { 
     font-family: courier;
     color: #555;
     font-size: 13px;
 }
 
-#card span {
+#card span,
+#card span a{
+    color: #333;
     font-family: courier;
+}
+
+a {
+    text-decoration: none;
 }
 
 footer {
@@ -125,7 +128,18 @@ footer {
 }
 
 footer .footer img{
-    width: 70px;
+    width: 40px;
     padding: 30px;
+}
+
+.footer_span {
+    color: #e9e2d0;
+    font-family: courier;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
 }
 
